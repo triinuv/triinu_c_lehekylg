@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/triinuv/triinu_c_lehekylg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Heihopsti!</h1>
+<p>212976</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</body>
+</html>
 
-### Markdown
+<html>
+<head>
+<style>
+table {
+  font-family: Felix titling, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+td, th {
+  border: 1px solid #000000;
+  text-align: center;
+  padding: 8px;
+}
 
-```markdown
-Syntax highlighted code block
+tr:nth-child(even) {
+  background-color: #FFFF00;
+}
+</style>
+</head>
+<body>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<table>
+  <tr>
+    <th>Värv</th>
+    <th>Objekt</th>
+  </tr>
+  <tr>
+    <td>Punane</td>
+    <td>Lammas</td>
+  </tr>
+  <tr>
+    <td>Sinine</td>
+    <td>Porgand</td>
+  </tr>
+  <tr>
+    <td>Kollane</td>
+    <td>Nurgadiivan</td>
+  </tr>
 
-1. Numbered
-2. List
+  </tr>
+</table>
 
-**Bold** and _Italic_ and `Code` text
+</body>
+</html>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/triinuv/triinu_c_lehekylg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
